@@ -12,3 +12,8 @@ I'm a highly disciplined developer who mastered Python backend engineering throu
 
 ### 📊 GitHub Stats:
 ![Jasur's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniyfdev&show_icons=true&theme=dark)
+
+### 📊 More Stats:
+![Jasur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=haniyfdev&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haniyfdev&layout=compact&theme=dark)

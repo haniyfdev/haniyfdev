@@ -3,7 +3,7 @@
 ### 🚀 Self-Taught Backend Developer | Python & FastAPI
 I'm a highly disciplined developer who mastered Python backend engineering through self-study in 6 months. Currently focusing on building scalable fintech and e-commerce solutions.
 
-- 🛠 **Current Focus:** Building Startup 'Ombor' (WMS & Local B2C Ecosystem)
+- 🛠 **Current Focus:** Building Startup 'EduHub' (CRM for education centers)
 - 🎓 **Learning:** Advanced System Design & Django 
 - ✈️ **Telegram:** [@haniyf_dev](https://t.me/haniyf_dev) - My 180+ days coding journey (ongoing)
 

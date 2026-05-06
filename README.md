@@ -1,6 +1,6 @@
 # Hi there, I'm Jasur (haniyf_dev) 👋
 
-### 🚀 Self-Taught Backend Developer | Python & FastAPI
+### 🚀 Self-Taught Backend Developer | Python & FastAPI/Django
 I'm a highly disciplined developer who mastered Python backend engineering through self-study in 6 months. Currently focusing on building scalable fintech and e-commerce solutions.
 
 - 🛠 **Current Focus:** Building Startup 'EduHub' (CRM for education centers)
